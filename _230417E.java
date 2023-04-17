@@ -19,7 +19,7 @@ public class _230417E {
 			data = data*10; 
 			System.out.println(array[b]);			
 		}
-		
+		//잘했다 나자신!!
 	}
 
 }
