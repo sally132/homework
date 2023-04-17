@@ -10,7 +10,7 @@ public class _230417C {
 			float[] f2 = f;//위치를 지정
 			f[0] = 3.14f;
 			f[1] = 2.34f;
-			f[2] = 5.0f;
+			f[2] = 5.0f;//이거 그때 바꿨는듯. 원래는 9.08 정도로 기억함.
 			System.out.println(f[2]);//9.08
 			System.out.println(f2[2]);//9.08
 			
